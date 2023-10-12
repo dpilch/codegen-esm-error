@@ -1,0 +1,14 @@
+{
+  "ts-node": {
+    "esm": true
+  },
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": [
+      "ES2020"
+    ],
+    "module": "NodeNext",
+    "rootDir": "./src",
+    "outDir": "./build"
+  }
+}
